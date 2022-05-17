@@ -1,0 +1,128 @@
+[
+  {
+    "_id": 6,
+    "name": "'Olu Mel",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/6/61/Olu_main.png",
+    "url": "https://api.disneyapi.dev/characters/6"
+  },
+  {
+    "_id": 7,
+    "name": ".GIFfany",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/51/Giffany.png",
+    "url": "https://api.disneyapi.dev/characters/7"
+  },
+  {
+    "_id": 10,
+    "name": "627",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/80/Profile_-_627.png",
+    "url": "https://api.disneyapi.dev/characters/10"
+  },
+  {
+    "_id": 11,
+    "name": "9-Eye",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/77/9-eye.jpg",
+    "url": "https://api.disneyapi.dev/characters/11"
+  },
+  {
+    "_id": 12,
+    "name": "90's Adventure Bear",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3f/90%27s_Adventure_Bear_profile.png",
+    "url": "https://api.disneyapi.dev/characters/12"
+  },
+  {
+    "_id": 13,
+    "name": "A.B.E.",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/20/ABE.jpg",
+    "url": "https://api.disneyapi.dev/characters/13"
+  },
+  {
+    "_id": 14,
+    "name": "A.J. Arno",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2c/A.J._Arno.jpg",
+    "url": "https://api.disneyapi.dev/characters/14"
+  },
+  {
+    "_id": 15,
+    "name": "A.R.F.",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/ba/A.R.F.png",
+    "url": "https://api.disneyapi.dev/characters/15"
+  },
+  {
+    "_id": 16,
+    "name": "Abdullah",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/cb/1087603-44532-clp-950.jpg",
+    "url": "https://api.disneyapi.dev/characters/16"
+  },
+  {
+    "_id": 17,
+    "name": "Abigail Markham",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/9/95/Abigail_Markham.jpeg",
+    "url": "https://api.disneyapi.dev/characters/17"
+  },
+  {
+    "_id": 18,
+    "name": "Abigail the Cow",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/05/Fox-disneyscreencaps_com-901.jpg",
+    "url": "https://api.disneyapi.dev/characters/18"
+  },
+  {
+    "_id": 19,
+    "name": "Abigail",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/dd/Regalblond.jpg",
+    "url": "https://api.disneyapi.dev/characters/19"
+  },
+  {
+    "_id": 20,
+    "name": "Queen Abigail",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/fa/Normal_EoA_S3_E4_0217.jpg",
+    "url": "https://api.disneyapi.dev/characters/20"
+  },
+  {
+    "_id": 21,
+    "name": "Abis Mal's Thugs",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/ba/Abis_Mal%27s_Thugs.jpg",
+    "url": "https://api.disneyapi.dev/characters/21"
+  },
+  {
+    "_id": 22,
+    "name": "Able",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/a/af/Able.png",
+    "url": "https://api.disneyapi.dev/characters/22"
+  },
+  {
+    "_id": 23,
+    "name": "Abraxas",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/ce/Abraxas.jpg",
+    "url": "https://api.disneyapi.dev/characters/23"
+  },
+  {
+    "_id": 24,
+    "name": "Absolem",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/4/4d/Caterpillar.jpg",
+    "url": "https://api.disneyapi.dev/characters/24"
+  },
+  {
+    "_id": 25,
+    "name": "Abu",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3f/Profile_-_Abu.png",
+    "url": "https://api.disneyapi.dev/characters/25"
+  },
+  {
+    "_id": 27,
+    "name": "Abuelito",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/c8/Char_51942_thumb.jpg",
+    "url": "https://api.disneyapi.dev/characters/27"
+  },
+  {
+    "_id": 28,
+    "name": "AC and DC",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/75/Profile_-_AC_and_DC.jpg",
+    "url": "https://api.disneyapi.dev/characters/28"
+  },
+  {
+    "_id": 29,
+    "name": "Professor Acari",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/5d/Professor_Acari.jpg",
+    "url": "https://api.disneyapi.dev/characters/29"
+  }
+]
